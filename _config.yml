@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: http://Boycel_Lee.github.io
+name: Boyce-Lee
+author: Boyce-Lee
+qq: 1772729359
+email: 1772729359@qq.com
 
-duoshuo: yourname
+duoshuo: 李海航
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: https://github.com/Boyce-Lee/Boyce-Lee.github.io
+about: "这里是Boyce-Lee 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
